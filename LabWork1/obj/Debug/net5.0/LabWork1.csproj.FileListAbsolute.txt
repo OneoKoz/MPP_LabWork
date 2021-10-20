@@ -1,0 +1,15 @@
+/Users/ivan/RiderProject/LabWork1/LabWork1/bin/Debug/net5.0/LabWork1.deps.json
+/Users/ivan/RiderProject/LabWork1/LabWork1/bin/Debug/net5.0/LabWork1.runtimeconfig.json
+/Users/ivan/RiderProject/LabWork1/LabWork1/bin/Debug/net5.0/LabWork1.runtimeconfig.dev.json
+/Users/ivan/RiderProject/LabWork1/LabWork1/bin/Debug/net5.0/LabWork1.dll
+/Users/ivan/RiderProject/LabWork1/LabWork1/bin/Debug/net5.0/ref/LabWork1.dll
+/Users/ivan/RiderProject/LabWork1/LabWork1/bin/Debug/net5.0/LabWork1.pdb
+/Users/ivan/RiderProject/LabWork1/LabWork1/obj/Debug/net5.0/LabWork1.csproj.AssemblyReference.cache
+/Users/ivan/RiderProject/LabWork1/LabWork1/obj/Debug/net5.0/LabWork1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivan/RiderProject/LabWork1/LabWork1/obj/Debug/net5.0/LabWork1.AssemblyInfoInputs.cache
+/Users/ivan/RiderProject/LabWork1/LabWork1/obj/Debug/net5.0/LabWork1.AssemblyInfo.cs
+/Users/ivan/RiderProject/LabWork1/LabWork1/obj/Debug/net5.0/LabWork1.csproj.CoreCompileInputs.cache
+/Users/ivan/RiderProject/LabWork1/LabWork1/obj/Debug/net5.0/LabWork1.dll
+/Users/ivan/RiderProject/LabWork1/LabWork1/obj/Debug/net5.0/ref/LabWork1.dll
+/Users/ivan/RiderProject/LabWork1/LabWork1/obj/Debug/net5.0/LabWork1.pdb
+/Users/ivan/RiderProject/LabWork1/LabWork1/obj/Debug/net5.0/LabWork1.genruntimeconfig.cache
